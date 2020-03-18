@@ -1,2 +1,2 @@
 # CoronaVirusIndiaData
-I am creating charts report from WHO corona virus source data
+I am creating chart from WHO corona virus source data for India.
