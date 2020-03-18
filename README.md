@@ -1,3 +1,2 @@
 # CorornaVirusIndiaData
-CoronaVirusIndiaData
-I am adding charts report from https://ourworldindata.org/ WHO data
+I am creating charts report from WHO corona virus source data
